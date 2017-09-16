@@ -10,6 +10,7 @@ github
 ssh
 bash shell
 atom
+brew
 
 Skill Level:
 
