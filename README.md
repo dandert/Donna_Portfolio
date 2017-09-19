@@ -11,6 +11,8 @@ ssh
 bash shell
 atom
 brew
+font awesome
+google fonts
 
 Skill Level:
 
